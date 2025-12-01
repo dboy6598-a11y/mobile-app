@@ -1,0 +1,24 @@
+# React Native
+# Built Node modules
+node_modules/
+
+# React Native Packager
+.packager-cache
+
+# Temporary files
+*.tmp
+*.log
+
+# iOS
+ios/*.xcodeproj
+ios/Pods/
+ios/Podfile.lock
+
+# Android
+android/.gradle/
+android/app/build/
+
+# Others
+*.swp
+*.DS_Store
+*.idea/
